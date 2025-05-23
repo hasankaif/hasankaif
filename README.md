@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KAIF HASAN</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-img align="right" alt="Coding" width="400" src="https://d2w9rnfcy7mm78.cloudfront.net/16292467/original_ddaceecdd62614ddf9a488b75ef88075.gif?1651446728"
+<img align="right" alt="Coding" width="400" src="https://d2w9rnfcy7mm78.cloudfront.net/16292467/original_ddaceecdd62614ddf9a488b75ef88075.gif?1651446728">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasankaif" alt="hasankaif" /></a> </p>
