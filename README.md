@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasankaif" alt="hasankaif" /></a> </p>
-
 - 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **C, C++**
