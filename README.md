@@ -8,9 +8,9 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasankaif" alt="hasankaif" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently doing **CTF**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, java**
 
 - ✉️ Reach me : **hasankaif919@gmail.com**
 
