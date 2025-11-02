@@ -1,12 +1,9 @@
 
 <!-- Replace SRC with your GIF -->
-<!-- Show middle -->
-<div style="width:100%; height:200px; overflow:hidden; position:relative;">
+<!-- <div style="width:100%; height:200px; overflow:hidden; position:relative;">
   <img src="https://raw.githubusercontent.com/hasankaif/-CodeLib-/refs/heads/main/%2BImages/d3cee895231357.5f32dd8106945.gif" 
        alt="Middle view" style="width:100%; position:absolute; top:-300px; left:0;">
-</div>
-
-
+</div> -->
 
 <br><br><br>
 <h1 align="center">Hi, I'm KAIF HASAN</h1>
