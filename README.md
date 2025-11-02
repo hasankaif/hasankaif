@@ -1,6 +1,6 @@
 
 <img src="https://github.com/hasankaif/-CodeLib-/blob/main/%2BImages/d3cee895231357.5f32dd8106945.gif?raw=true" 
-     style="width:100%; height:200px; object-fit:cover; object-position: top;">
+     style="width:100%; height:200px;  object-position: top;">
 
 
 <br><br><br>
