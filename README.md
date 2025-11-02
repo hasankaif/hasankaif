@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F95231357%2FRefuge&psig=AOvVaw0J7Vom2zPCHpWXPGcVptc7&ust=1762192827693000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLisj4KG1JADFQAAAAAdAAAAABAL">
+<img align="right" alt="Coding" width="" src="+Images/ThursdayBanner.gif">
 
 <br><br><br>
 <h1 align="center">Hi, I'm KAIF HASAN</h1>
