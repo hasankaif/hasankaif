@@ -1,5 +1,7 @@
 
-<img align="right" alt="Coding" width="100%" height="200" src="https://github.com/hasankaif/-CodeLib-/blob/main/%2BImages/d3cee895231357.5f32dd8106945.gif">
+<img src="https://github.com/hasankaif/-CodeLib-/blob/main/%2BImages/d3cee895231357.5f32dd8106945.gif?raw=true" 
+     style="width:100%; height:200px; object-fit:cover; object-position: top;">
+
 
 <br><br><br>
 <h1 align="center">Hi, I'm KAIF HASAN</h1>
