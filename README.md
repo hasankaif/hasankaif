@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="" src="+Images/ThursdayBanner.gif">
+<img align="right" alt="Coding" width="" src="https://github.com/hasankaif/-CodeLib-/blob/main/%2BImages/d3cee895231357.5f32dd8106945.gif">
 
 <br><br><br>
 <h1 align="center">Hi, I'm KAIF HASAN</h1>
