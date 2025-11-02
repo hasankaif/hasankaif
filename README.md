@@ -1,5 +1,5 @@
 <!--
-<img align="right" alt="Coding" width="" src="https://images.squarespace-cdn.com/content/v1/54f63902e4b014f1b7b47ce7/1610138116359-KZAG74G7PC4N88UHOZKS/bg-black.gif?format=2500w">
+<img align="right" alt="Coding" width="" src="">
 -->
 <br><br><br>
 <h1 align="center">Hi, I'm KAIF HASAN</h1>
