@@ -7,7 +7,7 @@
 
 <br><br><br>
 <h1 align="center">Hi, I'm KAIF HASAN</h1>
-<h4 align="center">A passionate programmer from Bangladesh</h4>
+<h4 align="center">A passionate learner</h4>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasankaif" alt="hasankaif" /></a> </p> -->
 
