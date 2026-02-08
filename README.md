@@ -14,10 +14,10 @@
 </p> 
 
 ### ❑ GitHub Stats & Trophies
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=hasankaif&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="hasankaif's GitHub Streak" width="49%" />
 </p>
-<p align="center">
+<p align="left">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hasankaif&theme=tokyonight&radius=10" alt="hasankaif's Activity Graph" />
 </p>
 
