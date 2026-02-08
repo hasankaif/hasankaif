@@ -1,38 +1,45 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm KAIF HASAN</h1>
 
-<!-- Replace SRC with your GIF -->
-<!-- <div style="width:100%; height:200px; overflow:hidden; position:relative;">
-  <img src="https://raw.githubusercontent.com/hasankaif/-CodeLib-/refs/heads/main/%2BImages/d3cee895231357.5f32dd8106945.gif" 
-       alt="Middle view" style="width:100%; position:absolute; top:-300px; left:0;">
-</div> -->
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=hasankaif">
+    <img src="https://komarev.com/ghpvc/?username=hasankaif&label=Profile%20views&color=00FFFF&style=flat-square" alt="hasankaif's profile views" />
+  </a>
+</p>
 
-<br><br><br>
-<h1 align="center">Hi, I'm KAIF HASAN</h1>
-<h4 align="center">A passionate learner</h4>
+<img src="https://giffiles.alphacoders.com/209/209343.gif" alt="Banner" width="100%" />
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasankaif" alt="hasankaif" /></a> </p> -->
-
-
-- 🌱 I’m currently doing **CTF**
-
-- 💬 Ask me about **C, C++, java**
-
-- ✉️ Reach me : **hasankaif919@gmail.com**
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasankaif&show_icons=true&locale=en&layout=compact" alt="hasankaif" /></p>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasankaif&" alt="hasankaif" /></p>
-<br>
+## 📌 About Me
+- 🌱 I am currently learning : Cyber Security
 
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hasankaif&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="hasankaif's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hasankaif&theme=highcontrast&radius=10" alt="hasankaif's Activity Graph" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
 
+## 🛠️ Languages & Tools
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
 
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
 
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
 
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
+## 🔗 Connect with Me
+<p align="left"> <a href="mailto:hasankaif919@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="KAIF HASAN's Email"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
