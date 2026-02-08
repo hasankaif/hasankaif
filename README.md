@@ -2,9 +2,6 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=hasankaif">
-    <div align="center">
-  <img src="https://64.media.tumblr.com/44c93e040419dc28f3725969a44bd0bb/0cca5b52a30ab292-b5/s1280x1920/34e4cc86b1be60556f5934d1bf5bc9a25529ceca.gif" alt="Bottom Line" width="100%" />
-</div>
     <img src="https://komarev.com/ghpvc/?username=hasankaif&label=Profile%20views&color=bf91f3&style=flat-square" alt="hasankaif's profile views" />
   </a>
 </p>
