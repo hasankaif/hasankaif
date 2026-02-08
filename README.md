@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=hasankaif">
-    <img src="https://komarev.com/ghpvc/?username=hasankaif&label=Profile%20views&color=00FFFF&style=flat-square" alt="hasankaif's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=hasankaif&label=Profile%20views&color=800080&style=flat-square" alt="hasankaif's profile views" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 ### ❑ About Me
 - 🌱 I am currently learning : Cyber Security
 <p>
-<br><br>
+<br>
 </p> 
 
 ### ❑ GitHub Stats & Trophies
