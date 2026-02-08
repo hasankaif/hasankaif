@@ -10,8 +10,9 @@
 ### ❑ About Me
 - 🌱 I am currently learning : Cyber Security
 <p>
-<br><br><br><br>
+<br><br>
 </p> 
+
 ### ❑ GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hasankaif&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="hasankaif's GitHub Streak" width="49%" />
