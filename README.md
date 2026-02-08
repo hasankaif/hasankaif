@@ -31,6 +31,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" alt="C++" width="48" height="48" style="margin: 4px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfgoU8tVx-aUbyBH-_UcNuV0Y4mTaTixIKA&s" alt="C++" width="48" height="48" style="margin: 4px;"/>
+  <img src="https://w7.pngwing.com/pngs/276/718/png-transparent-burp-suite-alt-macos-bigsur-icon-thumbnail.png" alt="C++" width="48" height="48" style="margin: 4px;" />
+  <img src="" alt="C++" width="48" height="48" style="margin: 4px;" />
+  <img src="" alt="C++" width="48" height="48" style="margin: 4px;" />
+  <img src="" alt="C++" width="48" height="48" style="margin: 4px;" />
 
 </p>
 
