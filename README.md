@@ -8,7 +8,9 @@
 
 
 ### ❑ About Me
-- 🌱 I am currently learning : Cyber Security
+- 🌱 Currently Doing : Cyber Security
+- 🚩 Playing : CTF
+- 🎯 Goal/ Interested In : Cloud Computing
 <p>
 <br>
 </p> 
