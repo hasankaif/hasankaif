@@ -10,7 +10,7 @@
 ### ❑ About Me
 - 🌱 Currently Doing : Cyber Security
 - 🚩 Playing : CTF
-- 🎯 Goal/ Interested In : Cloud Computing
+- 🎯 Goal/ Interested In : Cloud Engineering
 <p>
 <br>
 </p> 
