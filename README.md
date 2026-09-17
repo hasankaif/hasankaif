@@ -8,9 +8,9 @@
 
 
 ### ❑ About Me
-- 🌱 Currently Doing : Cyber Security
-- 🚩 Playing : CTF
-- 🎯 Goal/ Interested In : Penetration Testing
+- 🌱 Currently Doing    : CPTS Preparation
+- 🚩 Also Interested In : CTF
+- 🎯 Goal : Penetration Testing
 <p>
 <br>
 </p> 
