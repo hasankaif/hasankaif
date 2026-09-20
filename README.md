@@ -2,7 +2,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm KAIF HASAN</h1>
 
 <p align="center">
-  <img src="assests/cozy vibes.gif" alt="Animated Demo" width="600">
+  <img src="assests/money.jpg" alt="Animated Demo" width="">
 </p>
 
 <p align="center">
