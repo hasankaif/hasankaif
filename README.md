@@ -2,10 +2,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm KAIF HASAN</h1>
 
 <p align="center">
-  <img src="assests/money.jpg" alt="Animated Demo" width="">
-</p>
-
-<p align="center">
   <a href="https://komarev.com/ghpvc/?username=hasankaif">
     <img src="https://komarev.com/ghpvc/?username=hasankaif&label=Profile%20views&color=bf91f3&style=flat-square" alt="hasankaif's profile views" />
   </a>
